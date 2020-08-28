@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "동기"
+title:  "한국어 배우기 동기"
 date: 2020-08-24
 categories: [korean]
 comments: false
